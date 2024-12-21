@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(88, 161, 239);
+}
+.box1{
+    margin: 30px 100px 30px 400px;
+    justify-content: center;
+    width: 400px;
+    height:250px;
+    background-color: rgb(69, 163, 189);
+}
+h1{
+    width: max-content;
+    padding: 10px;
+    margin: 10px;
+background-color: #7771ed;
+font-size: 50px;
+}
+button{
+    color: aliceblue;
+    margin: 10px;
+    background-color: blue;
+}
